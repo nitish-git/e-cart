@@ -1,0 +1,48 @@
+.login-wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -60%);
+}
+
+.login-form-wrapper {
+  display: flex;
+  flex-direction: column !important;
+  min-height: 80vh;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.error-message {
+  width: 100%;
+  color: orangered;
+  margin: 5px 0 15px 10px;
+}
+
+.error-field,
+.error-field:focus {
+  border: 1px solid orangered !important;
+}
+
+.field-wrapper {
+  width: 40vh;
+}
+
+.login-form-heading {
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
+
+.signin-button {
+  width: 50% !important;
+  height: 40px;
+  margin: 0 !important;
+}
+
+.signup-link-btn {
+  text-decoration: none !important;
+}
+
+.signup-link-btn:focus {
+  box-shadow: none !important;
+}

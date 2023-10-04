@@ -1,0 +1,28 @@
+.productHeading {
+  overflow-wrap: break-word;
+  color: rgb(42, 44, 46);
+  font-weight: 700 !important;
+  font-size: 1rem !important;
+  line-height: 1.25;
+  letter-spacing: -0.6px;
+}
+
+.productDetails {
+  color: rgb(42, 44, 46);
+  padding: 0px;
+  margin: 0px;
+  overflow-wrap: break-word;
+  font-size: 1rem !important;
+  letter-spacing: -0.8px;
+  line-height: 1.5;
+  font-weight: 400 !important;
+  text-align: left;
+}
+
+.productImage {
+  width: 250px;
+  height: 250px;
+  border-radius: 3px;
+  border: 1px solid grey;
+  padding: 5px;
+}

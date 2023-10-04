@@ -1,0 +1,29 @@
+.heading {
+  overflow-wrap: break-word;
+  color: rgb(42, 44, 46);
+  font-weight: 700;
+  font-size: 1.2rem;
+  line-height: 1.25;
+  letter-spacing: -0.6px;
+  margin-bottom: 1rem;
+  min-height: 46.67px !important;
+}
+
+.desc {
+  color: rgb(42, 44, 46);
+  padding: 0px !important;
+  margin: 0px;
+  overflow-wrap: break-word;
+  font-size: 1rem !important;
+  letter-spacing: -0.8px;
+  line-height: 1.5;
+  font-weight: 400 !important;
+  text-align: left;
+}
+
+.star-container {
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+}

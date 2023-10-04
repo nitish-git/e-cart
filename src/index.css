@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Telus-Web-Reg";
+  src: url("./resources/font/Telus-Web-Reg.ttf");
+}
+
+body {
+  margin: 0;
+  font-family: "Telus-Web-Reg" !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Telus-Web-Reg";
+}
